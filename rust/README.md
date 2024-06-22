@@ -59,7 +59,7 @@ serde = { version = "1.0", features = ["derive"] }
 tokio = { version = "1", features = ["full"] }
 ```
 
-6.  Replace the content of  `src/main.rs`  with your desired Rust script.
+6.  Replace the content of  `src/main.rs`  with your desired Rust script (You can copy the existing `main.rs` in this repo).
 
 ## Script Overview
 
