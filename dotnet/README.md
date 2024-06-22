@@ -82,7 +82,7 @@ This command should display the installed .NET version.
     dotnet add package Newtonsoft.Json
 	```
 ### Getting Started
-1. **Start writing your program:** To start writing your C# program start to add your desired code base to the `program.cs` file created
+1. **Start writing your program:** To start writing your C# program start to add your desired code base to the `program.cs` file created (you can copy the existing `program.cs` in this repo)
 
 2. **Build your Project:** Before running the application, it's essential to build the project to ensure all dependencies are correctly resolved and the application is compiled. Follow these steps to build your project:
 
